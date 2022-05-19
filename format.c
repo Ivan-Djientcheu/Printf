@@ -8,10 +8,10 @@ int main() {
     char String[] = { "Hallo Welt\n" };
   
   
-	printf("Gleitkommazahl");
-	printf("Ganzzahl");
-	printf("Character");
-	printf("String");
+	printf("%f\n",Gleitkommazahl);
+	printf("%u\n",Ganzzahl);
+	printf("%c\n",Character);
+	printf("%s\n",String);
 	
 	return 0;
 }
